@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+
+	<main id="main" class="content">
+
+
+
+
+	<article id="page-3"
+		class="post single single-post post-3 page type-page status-publish hentry">
+
+		<header class="post-header">
+
+			<h1 class="post-title">Contacto</h1>
+		</header>
+		<!-- /post-header -->
+
+
+		<div class="post-inner clear-fix">
+
+			<div class="post-content">
+
+				<p>Ponte en contacto con nosotros:</p>
+				<div id="contact-form-3">
+					<form
+						action="https://muvitrending.wordpress.com/contacto/#contact-form-3"
+						method="post" class="contact-form commentsblock">
+
+						<div>
+							<label for="g3-nombre" class="grunion-field-label name">Nombre<span>(necesario)</span></label>
+							<p>
+								<input type="text" name="g3-nombre" id="g3-nombre"
+									value="chillgoblog" class="name" required=""
+									aria-required="true">
+							</p>
+						</div>
+
+						<div>
+							<label for="g3-correoelectrnico"
+								class="grunion-field-label email">Correo electrónico<span>(necesario)</span></label>
+							<p>
+								<input type="email" name="g3-correoelectrnico"
+									id="g3-correoelectrnico" value="chillgo182@gmail.com"
+									class="email" required="" aria-required="true">
+							</p>
+						</div>
+
+						<div>
+							<label for="g3-sitioweb" class="grunion-field-label url">Sitio
+								web</label>
+							<p>
+								<input type="url" name="g3-sitioweb" id="g3-sitioweb"
+									value="http://chillgoblog.wordpress.com" class="url">
+							</p>
+						</div>
+
+						<div>
+							<label for="contact-form-comment-g3-comentario"
+								class="grunion-field-label textarea">Comentario<span>(necesario)</span></label>
+							<p>
+								<textarea name="g3-comentario"
+									id="contact-form-comment-g3-comentario" rows="20"
+									class="textarea" required="" aria-required="true"></textarea>
+							</p>
+						</div>
+						<p class="contact-submit">
+							<input type="submit" value="Enviar »" class="pushbutton-wide">
+							<input type="hidden" id="_wpnonce" name="_wpnonce"
+								value="f658a115cf"><input type="hidden"
+								name="_wp_http_referer" value="/contacto/"> <input
+								type="hidden" name="contact-form-id" value="3"> <input
+								type="hidden" name="action" value="grunion-contact-form">
+							<input type="hidden" name="contact-form-hash"
+								value="b437e67ee60bc85edff9ef4c94b690d14dc84df4">
+						</p>
+					</form>
+				</div>
+				<p></p>
+
+
+			</div>
+			<!-- /post-content -->
+
+		</div>
+		<!-- /post-inner -->
+
+
+		<div id="comments" class="comments-area clear-fix"></div>
+		<!-- #comments -->
+	</article>
+	<!-- /page --> </main>
+</body>
+</html>
+
+
